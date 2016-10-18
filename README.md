@@ -1,1 +1,3 @@
-# S-curit-et-Cryptographie-tp
+# Sécurit et Cryptographie TP
+
+Les travaux pratiques du cours.
